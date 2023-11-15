@@ -1,3 +1,11 @@
+/*
+ * @Description: 
+ * @Version: 1.0
+ * @Author: ding.rongqi
+ * @Date: 2023-11-08 07:20:36
+ * @LastEditors: ding.rongqi
+ * @LastEditTime: 2023-11-15 23:20:16
+ */
 #include <iostream>
 
 #include <thread>
@@ -7,6 +15,12 @@
 
 #include "utils.hpp"
 
+/**
+ * @description: 
+ * @param {int} freq
+ * @return {*}
+ * @author: ding.rongqi
+ */
 void SleepWithCout(int freq)
 {
     while (true) {
@@ -15,6 +29,11 @@ void SleepWithCout(int freq)
     }
 }
 
+/**
+ * @description: 
+ * @return {*}
+ * @author: ding.rongqi
+ */
 int main()
 {
     std::cout << "hello world" << std::endl;

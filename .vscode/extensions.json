@@ -9,6 +9,7 @@
     "twxs.cmake",
 
     "xaver.clang-format",
+    "OBKoro1.korofileheader",
 
     "ms-vscode-remote.remote-ssh",
 
