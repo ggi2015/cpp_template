@@ -1,17 +1,16 @@
-{//show extensions: code --list-extensions
-"recommendations": [
-    "ms-python.python",
-    "ms-python.vscode-pylance",
-    
-    "ms-vscode.cmake-tools",
-    "ms-vscode.cpptools",
-    "ms-vscode.cpptools-extension-pack",
-    "twxs.cmake",
-
-    "xaver.clang-format",
-    "OBKoro1.korofileheader",
-
-    "ms-vscode-remote.remote-ssh",
-
-]
+{ //show extensions: code --list-extensions
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "twxs.cmake",
+        "xaver.clang-format",
+        "OBKoro1.korofileheader",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode.remote-explorer",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-containers",
+    ]
 }
