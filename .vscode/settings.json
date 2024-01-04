@@ -71,18 +71,18 @@
     },
     // korofileheader 注释插件 设置里面找到 Custom Made 写入以下配置 
     // korofileheader 注释插件 设置里面找到 Custom Made 写入以下配置 
-    "fileheader.customMade": { //此为头部注释，更改keymap:ctrl+alt+H
-        "Description": "",
-        "Version": "1.0",
-        "Author": "ding.rongqi",
-        "Date": "Do not edit",
-        "LastEditors": "ding.rongqi",
-        "LastEditTime": "Do not edit"
-    },
-    "fileheader.cursorMode": { //此为函数注释, 更改keymap:ctrl+atl+F
-        "description": "",
-        "param": "",
-        "return": "",
-        "author": "ding.rongqi"
-    }
+    // "fileheader.customMade": { //此为头部注释，更改keymap:ctrl+alt+H
+    //     "Description": "",
+    //     "Version": "1.0",
+    //     "Author": "ding.rongqi",
+    //     "Date": "Do not edit",
+    //     "LastEditors": "ding.rongqi",
+    //     "LastEditTime": "Do not edit"
+    // },
+    // "fileheader.cursorMode": { //此为函数注释, 更改keymap:ctrl+atl+F
+    //     "description": "",
+    //     "param": "",
+    //     "return": "",
+    //     "author": "ding.rongqi"
+    // }
 }

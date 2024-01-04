@@ -7,7 +7,7 @@
         "ms-vscode.cpptools-extension-pack",
         "twxs.cmake",
         "xaver.clang-format",
-        "OBKoro1.korofileheader",
+        // "OBKoro1.korofileheader",
         "ms-vscode-remote.remote-ssh",
         "ms-vscode.remote-explorer",
         "ms-vscode-remote.remote-ssh-edit",
